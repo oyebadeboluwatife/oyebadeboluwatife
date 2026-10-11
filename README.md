@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋, I'm Oyebade Boluwatife
 
-<!--
-**oyebadeboluwatife/oyebadeboluwatife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a passionate Computer Science freshman exploring the world of programming and building a strong foundation in tech.
+🤖 I have a strong interest in **Artificial Intelligence** and aspire to build intelligent systems that can solve real-world problems.
+Python is my primary tool as I begin this exciting journey!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Learning Goals
+
+- **Programming Languages:** Python, C/C++ (Foundation)
+- **Currently Learning:** Python fundamentals, data structures, and problem-solving
+- **Future Focus:** Machine Learning, Deep Learning, and AI model development
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyebadeboluwatife&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- Let’s grow and code together! Feel free to check out my repositories as I share my college coding projects.
