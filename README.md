@@ -8,7 +8,7 @@ Python is my primary tool as I begin this exciting journey!
 
 ### 🛠️ Tech Stack & Learning Goals
 
-- **Programming Languages:** Python, C/C++ (Foundation)
+- **Programming Languages:** Python.
 - **Currently Learning:** Python fundamentals, data structures, and problem-solving
 - **Future Focus:** Machine Learning, Deep Learning, and AI model development
 - **Tools:** Git, GitHub, VS Code
